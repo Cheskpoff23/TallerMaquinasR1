@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Estequiometría y exceso de aire}{2}{}%
+\contentsline {section}{\numberline {2}Temperatura de flama adiabática y calor de combustión (Qmax)}{5}{}%
+\contentsline {section}{\numberline {3}Poder calorífico y temperatura del punto de rocío}{7}{}%
+\contentsline {section}{\numberline {4}Conclusiones}{9}{}%

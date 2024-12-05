@@ -1,0 +1,449 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.8)  4 DEC 2024 00:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Copia Seguridad U/Semestre 8/Maquinas Rhenals/TallerMaquinasR1/taller1.tex"
+(d:/Copia Seguridad U/Semestre 8/Maquinas Rhenals/TallerMaquinasR1/taller1.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+(C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip49
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen141
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/base\ansinew.def
+File: ansinew.def 2024/02/08 v1.3d Input encoding file
+)) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count268
+\LTcapwidth=\dimen144
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count269
+\LT@rows=\count270
+\c@LT@tables=\count271
+\c@LT@chunks=\count272
+\LT@p@ftn=\toks20
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 68.
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box57
+) (taller1.aux)
+\openout1 = `taller1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen145
+\scratchbox=\box58
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen146
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks22
+) (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\SANTIAGO\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 74.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 74.
+
+Overfull \hbox (27.47281pt too wide) detected at line 77
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = 28\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 013  []$  []
+ []
+
+
+Overfull \hbox (34.23672pt too wide) detected at line 82
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = []  []$  []
+ []
+
+
+
+[1
+
+{C:/Users/SANTIAGO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+Overfull \hbox (28.79771pt too wide) detected at line 87
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = []  []$  []
+ []
+
+
+Overfull \hbox (40.02371pt too wide) detected at line 92
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = []  []$  []
+ []
+
+
+Overfull \hbox (35.88245pt too wide) detected at line 97
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = []  []$  []
+ []
+
+
+
+[2]
+Overfull \hbox (9.94269pt too wide) detected at line 102
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = 39  []$  []
+ []
+
+
+Overfull \hbox (9.67026pt too wide) detected at line 107
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = [] []$  []
+ []
+
+
+Overfull \hbox (31.87102pt too wide) detected at line 111
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = 37\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 84 \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]  []$  []
+ []
+
+
+Overfull \hbox (35.85715pt too wide) detected at line 116
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = 19\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 03 \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]  []$  []
+ []
+
+
+
+[3]
+Overfull \hbox (35.41814pt too wide) detected at line 121
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = 22\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 72 \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]  []$  []
+ []
+
+
+Overfull \hbox (41.64412pt too wide) detected at line 126
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = 14\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 95 \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]  []$  []
+ []
+
+
+
+[4]
+Overfull \hbox (37.50285pt too wide) detected at line 131
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = 5\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 46 \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]  []$  []
+ []
+
+
+Overfull \hbox (23.1503pt too wide) detected at line 136
+$[]\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+Overfull \hbox (77.33408pt too wide) detected at line 140
+$[]\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^A [] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+Overfull \hbox (11.4616pt too wide) detected at line 144
+$[]\OML/cmm/m/it/10 z \OT1/cmr/m/n/10 = 2 \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 76 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+
+[5]
+Overfull \hbox (19.00757pt too wide) in paragraph at lines 147--149
+[]\OT1/ptm/m/n/10 Para en-con-trar el aire te[]orico
+ []
+
+
+Overfull \hbox (3.15785pt too wide) in paragraph at lines 147--149
+\OT1/ptm/m/n/10 bal-anceamos el Ox[]^^Pgeno[] 
+ []
+
+
+Overfull \hbox (45.28412pt too wide) detected at line 152
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 2 = 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y$  []
+ []
+
+
+
+[6]
+Overfull \hbox (1.65038pt too wide) detected at line 156
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 z$  []
+ []
+
+
+Overfull \hbox (27.44441pt too wide) detected at line 164
+$[]\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+
+[7]
+Overfull \hbox (81.26941pt too wide) detected at line 168
+$[]\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+Overfull \hbox (39.60764pt too wide) detected at line 172
+$[]\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 = 2 \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 76 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 ^^^ \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + 1 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+Overfull \hbox (19.00757pt too wide) in paragraph at lines 175--177
+[]\OT1/ptm/m/n/10 Para en-con-trar el aire te[]orico
+ []
+
+
+Overfull \hbox (3.15785pt too wide) in paragraph at lines 175--177
+\OT1/ptm/m/n/10 bal-anceamos el Ox[]^^Pgeno[] 
+ []
+
+
+Overfull \hbox (85.23355pt too wide) detected at line 180
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 ^^^ \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 2 = 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 + 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 w$  []
+ []
+
+
+
+[8]
+Overfull \hbox (36.91245pt too wide) detected at line 184
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 w$  []
+ []
+
+
+
+[9]
+
+[10]
+Overfull \hbox (48.29791pt too wide) detected at line 212
+$[]\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 = [][]$  []
+ []
+
+
+Overfull \hbox (42.63728pt too wide) detected at line 216
+$[]\OML/cmm/m/it/10 P[] \OT1/cmr/m/n/10 = 1  [] \OMS/cmsy/m/n/10 ^^A []$  []
+ []
+
+
+
+[11]
+Overfull \hbox (1137.29106pt too wide) detected at line 229
+$[]\OML/cmm/m/it/10 Q[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] + \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] + \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] + \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] \OMS/cmsy/m/n/10 ^^@ []$  []
+ []
+
+
+Overfull \hbox (1139.84875pt too wide) detected at line 237
+$[]\OML/cmm/m/it/10 Q[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] + \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] + \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] + \OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 h [] \OMS/cmsy/m/n/10 ^^@ []$  []
+ []
+
+
+
+[12]
+Overfull \hbox (120.81445pt too wide) detected at line 241
+$[]\OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 M[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 M[]$  []
+ []
+
+
+Overfull \hbox (3.72461pt too wide) detected at line 249
+$[][] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 h[]=M[]$  []
+ []
+
+
+Overfull \hbox (21.67003pt too wide) detected at line 253
+$[]\OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[]=n[]$  []
+ []
+
+
+
+[13]
+d:/Copia Seguridad U/Semestre 8/Maquinas Rhenals/TallerMaquinasR1/taller1.tex:256: Undefined control sequence.
+<argument> \enthalpyvaporization 
+                                 \left (\F {Water},\mbox {\ P}=P_{1} \right ) 
+l.256 ...er},\mbox{\ P}=P_{1} \right) }{ M_{H2O} }
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (95.75815pt too wide) detected at line 257
+$[][] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 y[] \OMS/cmsy/m/n/10 ^^A []$  []
+ []
+
+
+Overfull \hbox (31.43054pt too wide) detected at line 265
+$[]\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+Overfull \hbox (85.25554pt too wide) detected at line 269
+$[]\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+
+[14]
+Overfull \hbox (48.0799pt too wide) detected at line 273
+$[]\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 = 2 \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 76 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 ^^^[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + 1 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[]$  []
+ []
+
+
+Overfull \hbox (1.408pt too wide) in paragraph at lines 276--278
+[]\OT1/ptm/m/n/10 Para en-con-trar el ex-ceso
+ []
+
+
+Overfull \hbox (5.37796pt too wide) in paragraph at lines 276--278
+\OT1/ptm/m/n/10 de Ox[]^^Pgeno bal-anceamos
+ []
+
+
+Overfull \hbox (105.89511pt too wide) detected at line 281
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 ^^^[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 2 = 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 + 2 \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 w[]$  []
+ []
+
+
+
+[15]
+Overfull \hbox (57.074pt too wide) detected at line 285
+$[]\OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 w[]$  []
+ []
+
+
+Overfull \hbox (33.62842pt too wide) detected at line 289
+$[]\OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[]=n[]$  []
+ []
+
+
+Overfull \hbox (0.7723pt too wide) detected at line 293
+$[]\OML/cmm/m/it/10 P[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 y[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 P[]$  []
+ []
+
+
+
+[16]
+Overfull \hbox (72.56053pt too wide) detected at line 297
+$[]\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 = T []$  []
+ []
+
+
+Overfull \hbox (1.20789pt too wide) in paragraph at lines 300--300
+[]\OT1/ptm/b/n/10 Variables in Main pro-
+ []
+
+d:/Copia Seguridad U/Semestre 8/Maquinas Rhenals/TallerMaquinasR1/taller1.tex:337: Missing } inserted.
+<inserted text> 
+                }
+l.337 ...extcolor{brown}{\{54.14\left[C\right]\}}$
+                                                   &
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (519.2791pt too wide) in alignment at lines 304--350
+[] [] [] [] []
+ []
+
+
+
+[17] [18] [19])
+Runaway argument?
+{3.b Dew Point - Excess Air 10${T_{r} =327.3 \rm \ {\color {blue} \left \ETC.
+! File ended while scanning use of \@textcolor.
+<inserted text> 
+                \par 
+<*> ...uinas Rhenals/TallerMaquinasR1/taller1.tex"
+                                                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Emergency stop.
+<*> ...uinas Rhenals/TallerMaquinasR1/taller1.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 1629 strings out of 473904
+ 27804 string characters out of 5725185
+ 1937908 words of memory out of 5000000
+ 24511 multiletter control sequences out of 15000+600000
+ 563961 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,7n,65p,826b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
